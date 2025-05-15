@@ -8,21 +8,20 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
-    "express": "^4.21.1",
-    "mongoose": "^8.8.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3",
+    "nodemon": "^3.1.10",
     "swagger-ui-dist": "^5.21.0",
     "swagger-ui-express": "^5.0.1",
-    "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.18",
     "@types/express": "^5.0.1",
-    "@types/swagger-ui-express": "^4.1.8",
-    "nodemon": "^3.1.10"
-  },
-  "description": ""
+    "@types/swagger-ui-express": "^4.1.8"
+  }
 }
